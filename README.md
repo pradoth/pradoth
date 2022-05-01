@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ! Meu nome é Thiago Prado, e eu sou estudante em Ciências da Computação!
+### Olá, meu nome é Thiago Prado, e eu sou estudante em Ciências da Computação!
 <div align="center">
   <a href="https://github.com/pradoth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradoth&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
